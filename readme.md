@@ -25,7 +25,23 @@ ChatGPT Artifacts 是一个创新的Web应用程序，它将Claude AI的Artifact
 
 ## 🎬 预览演示
 
-https://github.com/ozgrozer/chatgpt-artifacts/assets/651938/abc68e48-2a85-4cb8-a17a-ae795de1ed26
+
+
+![html.jpg](C:\Users\13903\Desktop\测试\html.jpg)
+
+![Snipaste_2025-06-08_15-29-01.jpg](C:\Users\13903\Desktop\测试\Snipaste_2025-06-08_15-29-01.jpg)
+
+![代码示例.jpg](C:\Users\13903\Desktop\测试\代码示例.jpg)
+
+![界面.jpg](C:\Users\13903\Desktop\测试\界面.jpg)
+
+![赛博朋克.jpg](C:\Users\13903\Desktop\测试\赛博朋克.jpg)
+
+
+
+
+
+
 
 ## 🛠️ 技术栈
 
@@ -204,16 +220,6 @@ A: 检查防火墙设置，确保WebSocket连接未被阻止。
 DEBUG=* npm run dev
 ```
 
-## 🤝 贡献指南
-
-我们欢迎社区贡献！请遵循以下步骤：
-
-1. Fork 项目仓库
-2. 创建功能分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 创建Pull Request
-
 ### 开发规范
 
 - 使用 [Standard](https://standardjs.com/) 代码风格
@@ -230,12 +236,6 @@ DEBUG=* npm run dev
 - 感谢 [Anthropic](https://www.anthropic.com/) 提供的Artifacts功能灵感
 - 感谢 [OpenAI](https://openai.com/) 提供强大的AI模型
 - 感谢所有贡献者和社区成员的支持
-
-## 📞 联系方式
-
-- 作者: Ozgur Ozer
-- 邮箱: ozgr@live.com
-- GitHub: [@ozgrozer](https://github.com/ozgrozer)
 
 ---
 
